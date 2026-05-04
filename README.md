@@ -93,7 +93,7 @@ Use the contact form below and select "Bug Report" as the issue type. Please inc
 **Can my school or organization partner with No Errors?**
 Absolutely, that’s a big part of our mission!  No Errors offers workshops, mentorship programs, speaker sessions, and certifications for schools and community organizations in the Detroit area. Use the contact form below or email us directly to start the conversation.
 
-**Privacy Policy**
+# **Privacy Policy**
 Your privacy matters deeply to us, especially because we serve teens. Here is exactly how No Errors Adventure List handles your data.
 
 **Local storage only**
