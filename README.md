@@ -33,7 +33,7 @@ Tap the view all link above the photo previews on the Homeroom screen to see al
 **Earning achievement stickers**
 Stickers are earned automatically as you hit milestones — completing your first  five task, finishing a full category, reaching 10 completions, and more. Tap the trophy in the top right corner of the the Homeroom page to view your collection and see what's coming next.
 
-**Daily affirmation & tip**
+**Daily affirmation & Tips**
 A fresh affirmation and actionable life tip appears every day on your home screen. Tap it to read the full tip and save it to your favorites if it resonates.
 
 
