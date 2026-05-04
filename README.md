@@ -5,8 +5,10 @@ Every student starts with 25 core adventures plus 10 personalized challenges�
 ## Getting Started
 **1. Download the app**
 Visit the App Store and search for "No Error Adventure List." Tap Get to download and install it on your iPhone or iPad.
+
 **2. Take the keyword interest quiz**
 Browse a list of interest keywords and select the ones that resonate with you. Each keyword connects to a hidden adventure task — you won't know what it unlocks until you choose it. That's part of the fun.
+
 **3. Reveal your 35-task adventure list**
 Your 25 core adventures plus 10 personalized tasks are now set. Browse your list, pick where to start, and begin your adventure.        
 
@@ -19,19 +21,19 @@ Open the app each day for your daily affirmation and tip. Stay motivated, track 
 
 
 # Using Your Adventure List
-→ **Completing a task
+ **Completing a task**
 Tap any adventure on your list to open it. Read the challenge, take action, then tap Mark Complete when you're done. You'll be prompted to add a photo and a quick reflection note to your gallery before you can complete the task.
 
-→ Adding a photo memory
+ **Adding a photo memory**
 Every completed task must have a photo attached. Tap the camera icon on any completed adventure to add an image from your camera or photo library. Your Yearbook  builds automatically as you complete challenges.
 
-→ Viewing your photo gallery
+**Viewing your photo gallery**
 Tap the view all link above the photo previews on the Homeroom screen to see all your memories in one place — organized by category and sorted by date completed.
 
-→ Earning achievement stickers
+**Earning achievement stickers**
 Stickers are earned automatically as you hit milestones — completing your first  five task, finishing a full category, reaching 10 completions, and more. Tap the trophy in the top right corner of the the Homeroom page to view your collection and see what's coming next.
 
-→ Daily affirmation & tip
+**Daily affirmation & tip**
 A fresh affirmation and actionable life tip appears every day on your home screen. Tap it to read the full tip and save it to your favorites if it resonates.
 
 
@@ -40,9 +42,10 @@ A fresh affirmation and actionable life tip appears every day on your home scree
 
 
 
-#App Features
+# App Features
 
 35-Task Adventure List
+
 25 core challenges for every student, plus 10 personalized to your interests — selected through a keyword quiz reveal.
 
 
