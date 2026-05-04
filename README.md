@@ -1,8 +1,8 @@
-What is No Error Adventure List?
+#What is No Error Adventure List?
 No Error Adventure List is a high school bucket list app designed to help teens graduate with more than just a diploma. Built by No Errors, a Detroit-based non-profit, the app gives every student a curated set of real-life challenges across four key areas — so you build skills, make memories, and step into your future with confidence and zero regrets.
 Every student starts with 25 core adventures plus 10 personalized challenges selected through a keyword interest quiz. Your list is yours. Your journey is yours. No errors.
 
-Getting Started
+#Getting Started
 1 Download the app
 Visit the App Store and search for "No Error Adventure List." Tap Get to download and install it on your iPhone or iPad.
 2 Take the keyword interest quiz
@@ -17,7 +17,7 @@ Open the app each day for your daily affirmation and tip. Stay motivated, track 
 
 
 
-Using Your Adventure List
+#Using Your Adventure List
 → Completing a task
 Tap any adventure on your list to open it. Read the challenge, take action, then tap Mark Complete when you're done. You'll be prompted to add a photo and a quick reflection note to your gallery before you can complete the task.
 
@@ -39,7 +39,7 @@ A fresh affirmation and actionable life tip appears every day on your home scree
 
 
 
-App Features
+#App Features
 
 35-Task Adventure List
 25 core challenges for every student, plus 10 personalized to your interests — selected through a keyword quiz reveal.
@@ -63,7 +63,7 @@ See your completion percentage by category and overall. Watch your adventure lis
 
 
 
-Frequently Asked Questions
+#Frequently Asked Questions
 
 What is the No Error Adventure List?
 It's a high school bucket list app created by No Errors, a Detroit-based non-profit. The app gives teens 35 real-life challenges across four categories designed to build skills, create memories, and prepare you for life after graduation.
